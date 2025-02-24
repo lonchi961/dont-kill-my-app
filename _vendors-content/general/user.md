@@ -1,7 +1,7 @@
----
+--Androide-
 manufacturer:
     - general
----
+xiaomi ---
 
 ### Android 6+
 
